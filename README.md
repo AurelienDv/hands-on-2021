@@ -6,6 +6,6 @@ Hands-on project session 2021
 * project 1
 * project 2
 
-## Additional comments
+## Additional components
 
-This is an additional comment.
+This is an additional component
